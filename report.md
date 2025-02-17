@@ -1,0 +1,1 @@
+I made two meaningful commits which added to my "about me" site. I created a branch. I made a text document which included my student number and name, a .md file which includes a brief overview, and an html file in vscode which creates a website to display my student number. I included a commit message and deployed my html file from vscode to my Github pages. 
